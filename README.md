@@ -1,3 +1,3 @@
-# isolate_test
+# Flutter Multithreading
 
-A new Flutter project.
+How to use Isolates
